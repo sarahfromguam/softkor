@@ -18,6 +18,11 @@ hr {
   border-style: none;
 }
 
+footer {
+  padding-bottom: 0;
+  margin: 0 auto;
+}
+
 /* ids */
 .center-container{
   display: flex;
